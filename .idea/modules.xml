@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fly-app/fly-app.iml" filepath="$PROJECT_DIR$/fly-app/fly-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fly-base/fly-base.iml" filepath="$PROJECT_DIR$/fly-base/fly-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fly-service/fly-service.iml" filepath="$PROJECT_DIR$/fly-service/fly-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fly_multi_blog.iml" filepath="$PROJECT_DIR$/fly_multi_blog.iml" />
+    </modules>
+  </component>
+</project>

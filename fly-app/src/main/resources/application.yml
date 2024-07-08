@@ -1,0 +1,17 @@
+server:
+  port: 8081
+# DataSource Config
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://8.137.83.82:3306/fly_blog
+    username: test
+    password: ansteel.cn@3071
+  redis:
+      sentinel:
+        master: mymaster
+        nodes: 47.126.38.101:26379,47.126.38.101:26380
+logging:
+  level:
+    root: INFO
+    org.springframework.web: DEBUG
